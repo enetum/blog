@@ -14,6 +14,8 @@ Below we will walk through how to install and use Bootstrap and customize to you
 
 ### How to Get Started with Bootstrap?
 
-As mentioned before Bootstrap is a free front-end open source toolkit. To download it all you need to do is visit the website [Bootstrap](https://getbootstrap.com). Once at the site click the ***"Get Started"***
+As mentioned before Bootstrap is a free front-end open source toolkit. To download it all you need to do is visit the website [Bootstrap](https://getbootstrap.com). Once at the site click the ***"Get Started"*** button (see image below).
+
+![Bootstrap Homepage](/img/bootstrap-homepage.png)
 
 ## Additional Resources
