@@ -18,4 +18,6 @@ As mentioned before Bootstrap is a free front-end open source toolkit. To downlo
 
 ![Bootstrap Homepage](/img/bootstrap-homepage.png)
 
+For this tutorial we will be using Bootstrap in our project through <link>'s in the <head> of our HTML files.
+
 ## Additional Resources
