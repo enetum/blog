@@ -85,6 +85,6 @@ The Bootstrap [getting started introduction](https://getbootstrap.com/docs/5.1/g
 
 Before we dive into Bootstrap layout, go ahead and open your index.html file. No need to host the file on a live server or open it locally (however if you'd like to go ahead); simply open it in your web browser. See the video below for opening your index.html file in your web browser (example video is on mac OS):
 
-![Opening index.html](opening-index-html.mov)
+![Opening index.html](img/opening-index-html.mov)
 
 ## Additional Resources
