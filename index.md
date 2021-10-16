@@ -83,12 +83,23 @@ A few of the options the Bootstrap template offers to you are commented out. For
 
 The Bootstrap [getting started introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) article talks about popper, components requiring JavaScript, etc. For now ignore all this as are project will not be using it. The Bootstrap framework allows developers to easily layout their site and fill content with pre-made components. We will focus on building a simple landing page using Bootstrap layout and components. Let's head to [the layout docs](https://getbootstrap.com/docs/5.1/layout/grid/) for the next part. Read through this as it is the base for a lot of Bootstrap and how it works.
 
-Before we dive into Bootstrap layout, go ahead and open your index.html file. No need to host the file on a live server or open it locally (however if you'd like to go ahead); simply open it in your web browser. See the video below for opening your index.html file in your web browser (example video is on mac OS):
+Before we dive into Bootstrap layout, go ahead and open your *index.html* file. No need to host the file on a live server or open it locally (however if you'd like to go ahead); simply open it in your web browser. See the video below for opening your *index.html* file in your web browser (example video is on mac OS):
 
 ![Opening index.html](/img/opening-index-html.mov)
 
 It is pretty bare, but let's fix that! Let's add a navbar to the top of our page. Head over to [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/) under components on the left side. This is another doc explaining how the Bootstrap Navbar component works and its styles/customizations.
 
-![Navigating to navbar](/img/layout-to-navbar.png);
+![Navigating to navbar](/img/layout-to-navbar.png)
+
+Let's go ahead and use one of the example header/navbar Bootstrap provides (see [Bootstrap Examples](https://getbootstrap.com/docs/5.1/examples/)). To easily copy and paste the example go ahead and click the ***"Download examples"*** button. Each of the Bootstrap examples comes with its own CSS stylesheet, so we will also be adding those to our *index.html* file as we go. For the header/navbar we will add the following code to our *index.html* file.
+
+1. First lets link our new stylesheet ([headers.css](/examples/headers.css)).
+
+  - Now link the stylesheet in the <head></head> tags of the *index.html* file
+
+  - ```
+  <!-- Stylesheets -->
+      <link rel="stylesheet" href="headers.css">
+  ```
 
 ## Additional Resources
