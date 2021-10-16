@@ -107,7 +107,7 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
     <title>My Bootstrap Site</title>
   ```
 
-3. Now lets paste the example header/navbar right under our <code> <body> </code> tag. It looks bulky due to the default Bootstrap svg icons the example contains, but we will leave them in for simplicity's sake.
+3. Now lets paste the example header/navbar right under our <body> tag. It looks bulky due to the default Bootstrap svg icons the example contains, but we will leave them in for simplicity's sake.
 
   ```
     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
