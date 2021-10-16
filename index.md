@@ -89,6 +89,6 @@ Before we dive into Bootstrap layout, go ahead and open your index.html file. No
 
 It is pretty bare, but let's fix that! Let's add a navbar to the top of our page. Head over to [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/) under components on the left side. This is another doc explaining how the Bootstrap Navbar component works and its styles/customizations.
 
-![Navigating to navbar](/img/layout-to-navbar);
+![Navigating to navbar](/img/layout-to-navbar.png);
 
 ## Additional Resources
