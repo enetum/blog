@@ -255,7 +255,13 @@ Let's add a hero to our page using the following code:
    <link rel="stylesheet" href="heroes.css">
   ```
 
-2. Now add the hero's html under the `</main>` tag but still in between the `<body> </body>` tags of the file. Note: you will need to put the proper path to `<img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">` in your own file. If you downloaded the Bootstrap examples as suggested earlier you can simply copy the image from the example into your own directory.
+2. Now add the hero's html under the `</main>` tag but still in between the `<body> </body>` tags of the file. Note: you will need to put the proper path to `<img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">` in your own file. If you downloaded the Bootstrap examples as suggested earlier you can simply copy the image from the example into your own directory. I will also link them here:
+
+  * [Image](/img/bootstrap-docs.png)
+  
+  * [Headers stylesheet](/examples/headers.css)
+
+  * [Heroes stylesheet](/examples/heroes.css)
 
   ```
   <div class="container col-xxl-8 px-4 py-5">
