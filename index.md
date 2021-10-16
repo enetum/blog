@@ -95,12 +95,12 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
 
 1. First lets link our new stylesheet ([headers.css](/examples/headers.css)).
 
-  - Now link the stylesheet in the <head></head> tags of the *index.html*
+  1. Now link the stylesheet in the <code><head></head></code> tags of the *index.html*
   
   ```
     <link rel="stylesheet" href="headers.css">
   ```
 
-2. Dog
+2. Next lets change our title from 
 
 ## Additional Resources
