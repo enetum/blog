@@ -358,16 +358,16 @@ Lastly let's add a footer to your page using the same method as above.
 
 Now you have a basic landing page built from Bootstrap components and styled with Bootstrap classes! 
 
-[Final Product](/img/final-product.png)
+![Final Product](/img/final-product.png)
 
 This is a very basic example and uses a lot of copy and pasting. Be sure to try building your own components ang web pages using Bootstrap practice! It is challenging at first, but you can pick it up easily. For more information and additional resources view the section below.
 
 ## Additional Resources
 
-* ![Tutorial Video](https://www.youtube.com/watch?v=1nxSE0R27Gg)
+* [Tutorial Video](https://www.youtube.com/watch?v=1nxSE0R27Gg)
 
-* ![Getting Started W3](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+* [Getting Started W3](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
 
-* ![What is Bootstrap](!https://www.hostinger.com/tutorials/what-is-bootstrap/)
+* [What is Bootstrap](https://www.hostinger.com/tutorials/what-is-bootstrap/)
 
-* ![Background of Bootstrap](!https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+* [Background of Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
