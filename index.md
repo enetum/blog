@@ -81,10 +81,14 @@ A few of the options the Bootstrap template offers to you are commented out. For
 </html>
 ```
 
-The Bootstrap [getting started introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) article talks about popper, components requiring JavaScript, etc. For now ignore all this as are project will not be using it. The Bootstrap framework allows developers to easily layout their site and fill content with pre-made components. We will focus on building a simple landing page using Bootstrap layout and components. Let's head to [the layout docs](https://getbootstrap.com/docs/5.1/layout/grid/) for the next part.
+The Bootstrap [getting started introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) article talks about popper, components requiring JavaScript, etc. For now ignore all this as are project will not be using it. The Bootstrap framework allows developers to easily layout their site and fill content with pre-made components. We will focus on building a simple landing page using Bootstrap layout and components. Let's head to [the layout docs](https://getbootstrap.com/docs/5.1/layout/grid/) for the next part. Read through this as it is the base for a lot of Bootstrap and how it works.
 
 Before we dive into Bootstrap layout, go ahead and open your index.html file. No need to host the file on a live server or open it locally (however if you'd like to go ahead); simply open it in your web browser. See the video below for opening your index.html file in your web browser (example video is on mac OS):
 
-![Opening index.html](img/opening-index-html.mov)
+![Opening index.html](/img/opening-index-html.mov)
+
+It is pretty bare, but let's fix that! Let's add a navbar to the top of our page. Head over to [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/) under components on the left side. This is another doc explaining how the Bootstrap Navbar component works and its styles/customizations.
+
+![Navigating to navbar](/img/layout-to-navbar);
 
 ## Additional Resources
