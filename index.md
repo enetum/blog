@@ -281,13 +281,13 @@ Let's add a hero to our page using the following code:
     </div>
   ```
 
-    1. This is good however the button is blue! This doesn't match our header's primary button (Sign-up) which is yellow. That's because of the class of the button in the hero `<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>`. The `class="btn-primary"` defaults to Bootstrap's primary color which is blue. We want to to be yellow so lets change the class from `class="btn-primary"` to `class="btn-warning"`. This will give us the classic Bootstrap yellow!
+  * This is good however the button is blue! This doesn't match our header's primary button (Sign-up) which is yellow. That's because of the class of the button in the hero `<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>`. The `class="btn-primary"` defaults to Bootstrap's primary color which is blue. We want to to be yellow so lets change the class from `class="btn-primary"` to `class="btn-warning"`. This will give us the classic Bootstrap yellow!
 
   ```
     <button type="button" class="btn btn-warning btn-lg px-4 me-md-2">Primary</button>
   ```
 
-    2. So far your hero code should look something like this
+  * So far your hero code should look something like this
 
   ```
     <div class="container col-xxl-8 px-4 py-5">
@@ -308,7 +308,7 @@ Let's add a hero to our page using the following code:
   ```
 
 
-    3. And your page should look like this
+  * And your page should look like this
 
     ![Homepage Header and Hero](/img/header-and-hero.png)
 
