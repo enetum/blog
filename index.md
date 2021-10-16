@@ -245,6 +245,44 @@ Your final *index.html* file should look like this:
 </html>
 ```
 
-Congratulations you have your header!
+Congratulations you have your header! Now it's time to add some content and a footer. We'll quickly copy and paste this example content as we did before for the header/navbar. The copy and pasting is not the important part here though, be sure to look through the example and play with the classes in the HTML elements. These classes are predefined by Bootstrap's styling and all do different things. Some are for layout, some are for style, and much more. Don't be afraid to get your hands messy playing around with these and seeing what they do! See [Bootstrap Customize](https://getbootstrap.com/docs/5.1/customize/overview/) for more information.
+
+Let's add a hero to our page using the following code:
+
+1. Add the stylesheet to your *index.html* file as we did before with the header/navbar
+
+  ```
+   <link rel="stylesheet" href="heroes.css">
+  ```
+
+2. Now add the hero's html under the `</main>` tag but still in between the `<body> </body>` tags of the file. Note: you will need to put the proper path to `<img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">` in your own file. If you downloaded the Bootstrap examples as suggested earlier you can simply copy the image from the example into your own directory.
+
+  ```
+  <div class="container col-xxl-8 px-4 py-5">
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-10 col-sm-8 col-lg-6">
+          <img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">Responsive left-aligned hero with image</h1>
+          <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  ```
+
+  1. This is good however the button is blue! This doesn't match our header's primary button (Sign-up) which is yellow. That's because of the class of the button in the hero `<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>`. The `class="btn-primary"` defaults to Bootstrap's primary color which is blue. We want to to be yellow so lets change the class from `class="btn-primary"` to `class="btn-warning"`. This will give us the classic Bootstrap yellow!
+
+  ```
+    <button type="button" class="btn btn-warning btn-lg px-4 me-md-2">Primary</button>
+  ```
+
+  2. So far your page should look like this
+
+  [Homepage Header and Hero](/img/header-and-hero.png)
 
 ## Additional Resources
