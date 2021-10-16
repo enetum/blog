@@ -95,7 +95,7 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
 
 1. First lets link our new stylesheet ([headers.css](/examples/headers.css)).
 
-  1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
+    1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
   
   ```
     <link rel="stylesheet" href="headers.css">
@@ -281,13 +281,13 @@ Let's add a hero to our page using the following code:
     </div>
   ```
 
-  1. This is good however the button is blue! This doesn't match our header's primary button (Sign-up) which is yellow. That's because of the class of the button in the hero `<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>`. The `class="btn-primary"` defaults to Bootstrap's primary color which is blue. We want to to be yellow so lets change the class from `class="btn-primary"` to `class="btn-warning"`. This will give us the classic Bootstrap yellow!
+    1. This is good however the button is blue! This doesn't match our header's primary button (Sign-up) which is yellow. That's because of the class of the button in the hero `<button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>`. The `class="btn-primary"` defaults to Bootstrap's primary color which is blue. We want to to be yellow so lets change the class from `class="btn-primary"` to `class="btn-warning"`. This will give us the classic Bootstrap yellow!
 
   ```
     <button type="button" class="btn btn-warning btn-lg px-4 me-md-2">Primary</button>
   ```
 
-  2. So far your hero code should look something like this
+    2. So far your hero code should look something like this
 
   ```
     <div class="container col-xxl-8 px-4 py-5">
@@ -308,9 +308,9 @@ Let's add a hero to our page using the following code:
   ```
 
 
-  3. And your page should look like this
+    3. And your page should look like this
 
-  ![Homepage Header and Hero](/img/header-and-hero.png)
+    ![Homepage Header and Hero](/img/header-and-hero.png)
 
 Lastly let's add a footer to your page using the same method as above.
 
@@ -372,4 +372,4 @@ This is a very basic example and uses a lot of copy and pasting. Be sure to try 
 
 * [Background of Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 
-* [index.html file](index.html)
+* [index.html file](https://github.com/enetum/blog/blob/main/examples/index.html)
