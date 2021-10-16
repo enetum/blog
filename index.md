@@ -356,7 +356,11 @@ Lastly let's add a footer to your page using the same method as above.
       </div>
     ```
 
-Now you have a basic landing page built from Bootstrap components and styled with Bootstrap classes! This is a very basic example and uses a lot of copy and pasting. Be sure to try building your own components ang web pages using Bootstrap practice! It is challenging at first, but you can pick it up easily. For more information and additional resources view the section below.
+Now you have a basic landing page built from Bootstrap components and styled with Bootstrap classes! 
+
+[Final Product](/img/final-product.png)
+
+This is a very basic example and uses a lot of copy and pasting. Be sure to try building your own components ang web pages using Bootstrap practice! It is challenging at first, but you can pick it up easily. For more information and additional resources view the section below.
 
 ## Additional Resources
 
