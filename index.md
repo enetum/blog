@@ -371,3 +371,5 @@ This is a very basic example and uses a lot of copy and pasting. Be sure to try 
 * [What is Bootstrap](https://www.hostinger.com/tutorials/what-is-bootstrap/)
 
 * [Background of Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+
+* [index.html file](index.html)
