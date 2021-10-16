@@ -30,7 +30,7 @@ Create an HTML file in your favorite text editor and save it as *index.html*. Go
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">f
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -62,7 +62,7 @@ A few of the options the Bootstrap template offers to you are commented out. For
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">f
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -80,5 +80,11 @@ A few of the options the Bootstrap template offers to you are commented out. For
   </body>
 </html>
 ```
+
+The Bootstrap [getting started introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) article talks about popper, components requiring JavaScript, etc. For now ignore all this as are project will not be using it. The Bootstrap framework allows developers to easily layout their site and fill content with pre-made components. We will focus on building a simple landing page using Bootstrap layout and components. Let's head to [the layout docs](https://getbootstrap.com/docs/5.1/layout/grid/) for the next part.
+
+Before we dive into Bootstrap layout, go ahead and open your index.html file. No need to host the file on a live server or open it locally (however if you'd like to go ahead); simply open it in your web browser. See the video below for opening your index.html file in your web browser (example video is on mac OS):
+
+![Opening index.html](opening-index-html.mov)
 
 ## Additional Resources
