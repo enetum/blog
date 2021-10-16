@@ -54,7 +54,7 @@ Create an HTML file in your favorite text editor and save it as *index.html*. Go
 </html>
 ```
 
-A few of the options the Bootstrap template offers to you are commented out. For this basic project let's go ahead with ***"Option 1: Boostrap Bundle with Popper"***. Go ahead and delete Option 2. Your *index.html* file should now look like this:
+A few of the options the Bootstrap template offers to you are commented out. For this basic project let's go ahead with ***"Option 1: Bootstrap Bundle with Popper"***. Go ahead and delete Option 2. Your *index.html* file should now look like this:
 
 ```
 <!doctype html>
