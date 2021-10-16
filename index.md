@@ -24,8 +24,7 @@ For this tutorial we will be using Bootstrap in our project through <link>'s in 
 
 Create an HTML file in your favorite text editor and save it as *index.html*. Go ahead and copy and paste the starter template code into the *index.html* file. The code should look exactly how it does on the Bootstrap page (see code block below).
 
-<code>
-<!doctype html>
+```<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -51,8 +50,7 @@ Create an HTML file in your favorite text editor and save it as *index.html*. Go
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     -->
   </body>
-</html>
-<code>
+</html>```
 
 
 ## Additional Resources
