@@ -259,7 +259,7 @@ Let's add a hero to our page using the following code:
   <link rel="stylesheet" href="heroes.css">
   ```
 
-1. Now add the hero's HTML under the `</main>` tag but still in between the `<body> </body>` tags of the file. Note: you will need to put the proper path to `<img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">` in your own file. If you downloaded the Bootstrap examples as suggested earlier you can simply copy the image from the example into your directory. I will also link them here:
+2. Now add the hero's HTML under the `</main>` tag but still in between the `<body> </body>` tags of the file. Note: you will need to put the proper path to `<img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">` in your own file. If you downloaded the Bootstrap examples as suggested earlier you can simply copy the image from the example into your directory. I will also link them here:
 
  * [Image](/img/bootstrap-docs.png)
  
@@ -324,7 +324,7 @@ Lastly, let's add a footer to your page using the same method as above.
  <link rel="stylesheet" href="footers.css">
  ``` 
 
- 1. First we will need to add in our social media svgs. Go ahead and add these svgs into the `<svg>` tag at the top of our file under the last `</symbol>` tag.
+ 2. First we will need to add in our social media svgs. Go ahead and add these svgs into the `<svg>` tag at the top of our file under the last `</symbol>` tag.
 
  ```
  <symbol id="facebook" viewBox="0 0 16 16">
@@ -339,7 +339,7 @@ Lastly, let's add a footer to your page using the same method as above.
  ```
  
  
- 1. Now add the footer HTML under the last `<div>` of the hero HTML. Notice how some of the classes are changed from the default Bootstrap footer example! The outside `<div>` has `class="container-fluid"` on it in order to make it full width while footer has the `class="container"` on it to contain the elements inside the viewport. This looks nice as it matches our menu. The Bootstrap logo is also changed to white using the text-light class and the social media icons are changed to yellow using the text-warning class as we demonstrated before with the Primary button in the Hero.
+ 3. Now add the footer HTML under the last `<div>` of the hero HTML. Notice how some of the classes are changed from the default Bootstrap footer example! The outside `<div>` has `class="container-fluid"` on it in order to make it full width while footer has the `class="container"` on it to contain the elements inside the viewport. This looks nice as it matches our menu. The Bootstrap logo is also changed to white using the text-light class and the social media icons are changed to yellow using the text-warning class as we demonstrated before with the Primary button in the Hero.
 
  ```
  <div class="container-fluid bg-dark">
