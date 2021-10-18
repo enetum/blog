@@ -99,7 +99,7 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
 
     1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
  
-      - ```
+      ```
       <link rel="stylesheet" href="headers.css">
       ```
 
@@ -254,7 +254,7 @@ Congratulations you have your header! Now it's time to add some content and a fo
 Let's add a hero to our page using the following code:
 
 1. Add the stylesheet to your *index.html* file as we did before with the header/navbar
-
+  
   ```
   <link rel="stylesheet" href="heroes.css">
   ```
