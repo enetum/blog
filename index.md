@@ -87,6 +87,8 @@ Before we dive into Bootstrap layout, go ahead and open your *index.html* file. 
 
 ![Opening index.html](/img/opening-index-html.mov)
 
+### Next Steps: Components & Layout
+
 It is pretty bare, but let's fix that! Let's add a navbar to the top of our page. Head over to [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/) under components on the left side. This is another doc explaining how the Bootstrap Navbar component works and its styles/customizations.
 
 ![Navigating to navbar](/img/layout-to-navbar.png)
@@ -95,7 +97,7 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
 
 1. First lets link our new stylesheet ([headers.css](/examples/headers.css)).
 
- 1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
+  1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
  
  ```
  <link rel="stylesheet" href="headers.css">
