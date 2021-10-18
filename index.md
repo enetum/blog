@@ -96,7 +96,7 @@ It is pretty bare, but let's fix that! Let's add a navbar to the top of our page
 Let's go ahead and use one of the example header/navbar Bootstrap provides (see [Bootstrap Examples](https://getbootstrap.com/docs/5.1/examples/)). To easily copy and paste the example go ahead and click the ***"Download examples"*** button. Each of the Bootstrap examples comes with its CSS stylesheet, so we will also be adding those to our *index.html* file as we go. For the header/navbar we will add the following code to our *index.html* file.
 
 1. First lets link our new stylesheet ([headers.css](/examples/headers.css)).
-  1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
+    1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
  
  ```
  <link rel="stylesheet" href="headers.css">
