@@ -99,7 +99,7 @@ Let's go ahead and use one of the example header/navbar Bootstrap provides (see 
 
     1. Now link the stylesheet in the `<head> </head>` tags of the *index.html*
  
-      ```
+      - ```
       <link rel="stylesheet" href="headers.css">
       ```
 
