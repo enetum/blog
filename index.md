@@ -18,7 +18,7 @@ As mentioned before Bootstrap is a free front-end open-source toolkit. To get st
 
 ![Bootstrap Homepage](/img/bootstrap-homepage.png)
 
-For this tutorial, we will be using Bootstrap in our project through <link>'s in the <head> of our HTML files. It is also assumed you have an understanding of HTML5 and how it works. Bootstrap's docs provide a perfect starter template for exactly what we want to do here. Scroll down on the same page the ***"Get Started"*** button took you to (see image below).
+For this tutorial, we will be using Bootstrap in our project through `<link>`'s in the `<head>` of our HTML files. It is also assumed you have an understanding of HTML5 and how it works. Bootstrap's docs provide a perfect starter template for exactly what we want to do here. Scroll down on the same page the ***"Get Started"*** button took you to (see image below).
 
 ![Bootstrap Homepage](/img/starter-template.png)
 
